@@ -16,7 +16,7 @@ timezone:
 
 title: Odunolaoluwa Jenrola # the main title
 
-tagline: Personal Blog # it will display as the subtitle
+tagline: Audio, ML, Signals, Data # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   All things Deep Learning, Audio and Signals Processing

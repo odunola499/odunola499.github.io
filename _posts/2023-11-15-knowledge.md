@@ -5,6 +5,9 @@ categories: [Distillation]
 tags: [Distillation, Bert, Huggingface, Transformers]
 ---
 
+
+
+
 AI companies continue to scale language models, yet deploying these large models remains challenging. Knowledge distillation is one way to have models efficient in production.
 
 **Knowledge distillation** transfers knowledge from a large "teacher" model to a smaller "student" model. This method reduces computational demands and enables practical applications, especially on resource-limited devices like edge devices and CPUs.
@@ -392,4 +395,3 @@ print(f'time taken per batch for student is {time_taken_student / 4:.6f}')
 Please note that the time is in seconds.
 
 In summary, I hope our journey with knowledge distillation has been a smooth one. We’ve cut down on memory usage and significantly sped things up, all while keeping up with our teacher model’s performance. These results speak volumes about how this technique can make things faster and lighter without sacrificing too much quality.
-
